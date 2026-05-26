@@ -1,0 +1,392 @@
+%YAML 1.1
+%TAG ! tag:yaml.org,2002:
+--- !u!129 &1
+ProjectSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 23
+  targetPlatform: 0
+  useOnDemandResources: 0
+  accelerometerFrequency: 60
+  gyroscopeFrequency: 60
+  gamepadSamplingRate: 60
+  reticleOn: 1
+  initializeOnStartup: 0
+  enableTextureStreamingInEditor: 1
+  enableTextureStreamingInPlayMode: 1
+  asyncUploadTimeSlice: 2
+  asyncUploadBufferSize: 16
+  asyncUploadPersistentBuffer: 1
+  resolutionDialogBanner: {fileID: 0}
+  m_RenderingPath: 1
+  m_MobileRenderingPath: 1
+  m_ActiveColorSpace: 0
+  m_MTRendering: 1
+  mipStripping: 0
+  numberOfMipsStripped: 0
+  copyTextureInBackgroundThread: 0
+  earlyFragmentTests: 0
+  enableBorderRendering: 1
+  useDynamicScale: 0
+  vSyncCount: 1
+  lodBias: 1
+  maximumLODLevel: -1
+  streamingMipmapsActive: 0
+  streamingMipmapsAddAllCameras: 0
+  streamingMipmapsMemoryBudget: 512
+  streamingMipmapsRenderersPerFrame: 512
+  streamingMipmapsMaxLevelReduction: 2
+  streamingMipmapsMaxFileSize: 2147483647
+  streamingMipmapsMinFileSize: 0
+  streamingMipmapsBlurFactor: 1
+  splashScreenScale: 1
+  defaultScreenWidth: 1920
+  defaultScreenHeight: 1080
+  defaultScreenWidthWeb: 960
+  defaultScreenHeightWeb: 600
+  m_StereoRenderingPath: 0
+  m_ActiveColorSpaceDetails: 0
+  m_SplashScreenBackgroundSourceLandscape: {fileID: 0}
+  m_SplashScreenBackgroundSourcePortrait: {fileID: 0}
+  m_SplashScreenBackgroundSourceSquare: {fileID: 0}
+  m_SplashScreenScale: 1
+  m_SplashScreenLogoStyle: 1
+  m_SplashScreenDrawMode: 0
+  m_SplashScreenBackgroundAnimationDuration: 1
+  m_ShowUnitySplashScreen: 1
+  m_ShowUnitySplashLogo: 1
+  m_SplashScreenMinimumDisplayTime: 2
+  m_SplashScreenWaitMode: 1
+  m_SplashScreenUIAnimation: 1
+  m_SplashScreenBackgroundColor: {r: 0.13725490, g: 0.12156863, b: 0.1254902, a: 1}
+  m_ShowAndroidSplashScreen: 1
+  m_ShowAndroidSplashScreenUsingSceneAssets: 0
+  m_AndroidSplashScreenScale: 0
+  m_AndroidKeepLoadingOnPause: 1
+  m_AndroidBootSplashScreen: {fileID: 0}
+  m_AndroidBootSplashScreenScale: 0
+  m_androidScreenMatchMode: 1
+  m_androidRenderingMode: 1
+  m_androidUseSwappy: 1
+  m_androidBlitType: 0
+  m_AndroidMinimumWindowWidth: 0
+  m_AndroidMinimumWindowHeight: 0
+  m_AndroidFullscreenMode: 1
+  m_defaultIsNativeResolution: 1
+  m_macRetinaDisplay: 0
+  m_runInBackground: 0
+  m_ActionOnDotNetUnhandledException: 0
+  m_EnableAudioDSPOnMobileDevice: 1
+  m_AllowFullscreenSwitch: 1
+  m_FullscreenMode: 1
+  m_SuspendResolutionOnFocusLoss: 0
+  m_Fullscreen_width: 1920
+  m_Fullscreen_height: 1080
+  m_ExcludedTargetPlatforms: []
+  m_DisableOcclusionCulling: 0
+  m_Allow3DRenderTextures: 1
+  m_BillboardsFaceCameraPosition: 0
+  m_CrashOnUnhandledException: 1
+  m_UsePlayerLog: 1
+  m_LogOdds: -1
+  m_CompABCStartupTraceEvents: 0
+  catchUnhandledExceptions: 1
+  m_ManagedStrippingLevel: 0
+  m_EnableManagedStrippingLoggingLevel: 0
+  m_LogAssertBailout: 0
+  m_LogExceptionBacktrace: 1
+  m_ShowHiddenCharacters: 0
+  m_EnableCoverageRecording: 0
+  m_EnableMetricsRecording: 0
+  m_reuseCollisionCallbacks: 0
+  fsAssetsFolderName: Assets
+  fsCacheFolder: 
+  fsCacheExtensions: obj,res,mat,mb,anim,prefab,png,jpg,txt,bytes,raytype,flare,mat,ttf,runtimeresource,cubemap,sbsar,terrainlayer,physicsmaterial,raytrace
+  onDemandOcclusionCullingWorkerCount: -1
+  onDemandOcclusionCullingDebugMode: 0
+  onDemandOcclusionCullingPredictionDebugMode: 0
+  m_AssetPipelineVersion: 1
+  m_OcclusionCullingNumViews: 1
+  m_OcclusionCullingMinimumOccluderSize: 5
+  m_Profiler-enableAllMemoryModules: 1
+  m_Profiler-memoryModuleNames:
+  - Android
+  - Audio
+  - FileIO
+  - Graphics
+  - Mono
+  - Physics
+  - Physics2D
+  - Profiler
+  - Rendering
+  - Scripting
+  - TextCore
+  - UI
+  - UIToolkit
+  - UnityConnect
+  - Video
+  m_DefaultRenderingPath: 1
+  m_DefaultMobileRenderingPath: 1
+  m_TierSettings_Tier1:
+    renderingPath: 1
+    useCascadedShadowMaps: 1
+  m_TierSettings_Tier2:
+    renderingPath: 1
+    useCascadedShadowMaps: 1
+  m_TierSettings_Tier3:
+    renderingPath: 1
+    useCascadedShadowMaps: 1
+  m_LightmapStripping: 0
+  m_LightmapKeepPlain: 1
+  m_LightmapKeepDirCombined: 1
+  m_LightmapKeepDynamicPlain: 1
+  m_LightmapKeepDynamicDirCombined: 1
+  m_LightmapKeepShadowMask: 1
+  m_LightmapKeepSubtractive: 1
+  m_FogStripping: 0
+  m_FogKeepLinear: 1
+  m_FogKeepExp: 1
+  m_FogKeepExp2: 1
+  m_AlbedoSwatchCount: 0
+  m_AlbedoSwatches: []
+  m_AlbedoSwatchCount: 0
+  m_AlbedoSwatches: []
+  m_AlbedoSwatchCount: 0
+  m_AlbedoSwatches: []
+  m_LightsUseLinearIntensity: 0
+  m_LightsUseColorTemperature: 0
+  m_DefaultLocalInstancingVariants: 0
+  m_LogWhenShaderIsCompiled: 0
+  m_AllowEnhancedShaderDebugging: 1
+  m_UseDeferredMode: 0
+  m_PlatformMinimumTargetAPILevel: {}
+  m_CIExcludedPlatforms: []
+  m_TextureCompressionFormat: 1
+  m_BuildTargetVSVersion: {}
+  webPlayerTemplate: APPLICATION:Default
+  m_TemplateCustomTags: {}
+  iosShowActivityIndicatorOnLoading: -1
+  androidShowActivityIndicatorOnLoading: -1
+  iosUseCustomAppBackgroundBehavior: 0
+  iosAllowHTTPDownload: 1
+  allowDownloadingSourceCode: 0
+  iosCompileForDevices: 0
+  iosDeviceCompilationTarget: 0
+  iosAppInBackgroundBehavior: 0
+  iosAllowAPS: 1
+  iosAllowAPSCertificateUrl: 1
+  kuwaitian: 0
+  tvOSSplashScreenSetup: 0
+  tvOSDefaultIsNativeResolution: 0
+  tvOSSmallIconWidth: 0
+  tvOSSmallIconHeight: 0
+  tvOSLargeIconWidth: 0
+  tvOSLargeIconHeight: 0
+  tvOSTopShelfImageWidth: 0
+  tvOSTopShelfImageHeight: 0
+  tvOSTopShelfImageWidthLandscape: 0
+  tvOSTopShelfImageHeightLandscape: 0
+  tvOSAppCoverImageWidth: 0
+  tvOSAppCoverImageHeight: 0
+  tvOSFrameBufferColorFormat: 0
+  tvOSFrameBufferDepthFormat: 0
+  tvOSInitialScreenOrientation: 4
+  tvOSLaunchFilePath: 
+  tvOSLaunchResolution: Full
+  tvOSLaunchResolutionLandscape: Full
+  tvOSMinimumOS13: 0
+  tvOSDisableWindowOcclusionEvents: 0
+  tvOSLaunchOnExternalScreen: 0
+  switchSocketMemoryPoolSize: 6144
+  switchSocketAllocatorPoolSize: 0
+  switchSocketConcurrencyLimit: 14
+  switchScreenResolutionBehavior: 2
+  switchUseCPUProfiler: 0
+  switchUseGPUProfiler: 0
+  switchSupportedLanguageCount: 0
+  switchNativeDevelopment: 0
+  switchLiteFlagBehavior: 0
+  switchNL2bAssetCompressionMode: 0
+  switchB2master: 0
+  switchPlayerConnectionInitialize: 1
+  switchRunnableOnKit: 0
+  switchUseHypervisorForDebugging: 0
+  switchUseMicroVM: 0
+  switchEnableRamDisk: 0
+  switchDataLossOnBroken: 0
+  switchUserAccountLockRequired: 0
+  switchSystemProductionMode: 0
+  switchRepairMode: 0
+  switchUseCustomUSBOnly: 0
+  switchUseCompactMode: 0
+  switchOptimizationFlags: 4
+  switchMainThreadStackSize: 32768
+  switchPresenceGroupId: 
+  switchLogoHandling: 0
+  switchReleaseVersion: 0
+  switchDisplayVersion: 1.0.0.0
+  switchStartupUserAccount: 
+  switchStartupUserAccountGui: 
+  switchAccessibleURLs: 
+  switchNsaId: 0
+  switchCollectControllerStatistics: 1
+  switchSupportedLanguageCount: 0
+  switchCoverArtwork: {fileID: 0}
+  switchLogoType0: {fileID: 0}
+  switchLogoType1: {fileID: 0}
+  switchLogoType2: {fileID: 0}
+  switchLogoType3: {fileID: 0}
+  switchLogoType4: {fileID: 0}
+  switchLogoType5: {fileID: 0}
+  switchLogoType6: {fileID: 0}
+  switchLogoType7: {fileID: 0}
+  switchLogoType8: {fileID: 0}
+  switchLogoType9: {fileID: 0}
+  switchLogoType10: {fileID: 0}
+  switchLogoType11: {fileID: 0}
+  switchGamepadSupportCount: 0
+  switchCloudStripping: 0
+  switchNacp_AddOnContentAccessibility: 0
+  switchNacp_ContentAddressableSpace: 0
+  switchNacp_JapanRegionCode: 0
+  switchTitleType: 0
+  switchCapability: 0
+  switchNacp_MaxApplicationVersion: 0
+  switchNacp_OptimizationFlags: 0
+  switchNacp_PlayLogQueryCapability: 0
+  switchNacp_RepairFlag: 0
+  switchNacp_RequiredNetworkServiceLicenseOnLaunch: 0
+  switchNacp_TargetAgeRating: -1
+  switcheTokens: {}
+  switchGradeForContent: False
+  switchParentalControl: 0
+  switchFreeCommunicationGroupId: 0
+  switchOrganisationId: 0
+  switchCopyrightAndTrademark: 
+  switchPlayLogQueryCapabilityEnabled: 0
+  switchRepairModeEnabled: 0
+  switchAttribute: 0
+  switchCardSpec: -1
+  switchCardSpecChin: -1
+  switchCardSpecKor: -2
+  switchWillPresent: 0
+  switchDetectUnhandledFocusChanges: 1
+  switchSupportedLanguageCount: 0
+  switchNotificationLogLevel: 0
+  switchN3dProcessor: -1
+  switchEnableTouchScreen: 1
+  switchDataLossConfirmation: 0
+  switchSupportedLanguageCount: 0
+  switchAttribute: 0
+  switchNacp_Language: 0
+  switchNacp_GameUpdateFlag: 0
+  switchSaveDataBackupDelaySeconds: 10
+  switchPass: 0
+  switchPassport: 0
+  ps4NPAgeRating: 12
+  ps4NPTitleSecret: 
+  ps4LinksLevel: 2
+  ps4Passcode: fromkeyboard
+  ps4UseDebugIL2CPP: 0
+  ps4ScriptOptimizationLevel: 3
+  ps4DisableAutoP2PTransfer: 0
+  ps5LinkContent: 0
+  ps5AudioOutConfigSupport: 0
+  ps5TransitionOffsetFile: 
+  loggingBehaviorOverrides: 0
+  ps4EnableErrorDialog: 1
+  needsXboxOneDeployKitDeployment: 0
+  needsPlayerPrefsForAudio: 0
+  needsProfilerAtStartup: 0
+  needsRevealedAncorForQuit: 0
+  needsNunchukUprightStartup: 0
+  staticBatchingHelper: {fileID: 0}
+  cloudProjectId: 
+  framebufferDepthMemorylessMode: 0
+  qualitySettingsNames:
+  - Very Low
+  - Low
+  - Medium
+  - High
+  - Very High
+  - Ultra
+  qualitySettingsArePreset: 1
+  qualitySettingsCustom: []
+  qualitySettingsExcludedTargetPlatforms: []
+  profileEnableAssertions: 1
+  profileCallstackFormat: 0
+  profileCallstackFormatSymbols: 0
+  profileInstrumentationEvents: 0
+  onBeforeRuntimeTargetImport: 
+  m_RenderingPath: 1
+  m_MobileRenderingPath: 1
+  metroPackageName: Template_3D
+  metroPackageVersion: 
+  metroCertificatePath: 
+  metroCertificatePassword: 
+  metroCertificateSubject: 
+  metroCertificateIssuer: 
+  metroCertificateNotAfter: 0000000000000000
+  metroFirstLaunchUrl: 
+  wsaMetroPackageName: 
+  wsaMetroPackageVersion: 1.0.0.0
+  wsaMetroPackageMinVersion: 1.0.0.0
+  wsaMetroPackageCertificatePath: 
+  wsaMetroPackageCertificatePassword: 
+  wsaMetroPackageCertificateSubject: 
+  wsaMetroPackageCertificateIssuer: 
+  wsaMetroPackageCertificateNotAfter: 0000000000000000
+  wsaMetroPackageLogo: {fileID: 0}
+  wsaMetroPackageLogoScale: 0
+  wincacheFolder: 
+  winMaxRecursiveCopyDepth: 45
+  win64Path: 
+  win64PathExists: 0
+  win32Path: 
+  win32PathExists: 0
+  w32TemplatePath: WindowsDesktop
+  w64TemplatePath: WindowsDesktop
+  winUWPPath: 
+  winUWPPathExists: 0
+  runningUnitTests: 0
+  allowAttachedDebuggingOfEditor: 0
+  allowDebuggingOfBuildsWithManagedDebugger: 0
+  logManagedDebuggingOfBuildsWithManagedDebugger: 0
+  enableCallstackProfiler: 0
+  osExposeGPUProperties: 0
+  gpuDeviceInitializationSettings: []
+  reflectionBufferSize: 0
+  stripEngineCode: 1
+  accessTokenBindingSymbol: 
+  accessTokenBindingSymbolWindowsEditor: 
+  accessTokenBindingSymbolWindowsPlayer: 
+  accessTokenBindingSymbolOSXEditor: 
+  accessTokenBindingSymbolOSXPlayer: 
+  accessTokenBindingSymbolLinuxEditor: 
+  accessTokenBindingSymbolLinuxPlayer: 
+  accessTokenBindingSymbolAndroidPlayer: 
+  platformLogConsoleExceptionThreshold: 
+  runtimeInitializeOnLoadManagerCount: 0
+  runtimeInitializeOnLoadManagerPath: []
+  runtimeInitializeOnLoadCoreModuleCount: 0
+  runtimeInitializeOnLoadCoreModulePath: []
+  setupAssetPipelineManagerForProductionUsage: 1
+  setupAssetPipelineManagerForInProcessCooking: 1
+  useCoresOnlyForCalculatingLightBakingSmoothness: 0
+  onlyPlaceEnabledBakingLocationsInBakedScene: 0
+  enableEnlightenSourceAssets: 1
+  sRGBBakeTarget: 1
+  smolVersion: 0
+  defaultBuildFullPath: 
+  defaultBuildFullPathWeb: 
+  defaultBuildFullPathAndroidPlayer: 
+  defaultBuildFullPathiOSPlayer: 
+  defaultBuildFullPathtvOSPlayer: 
+  defaultBuildFullPathPS4Player: 
+  defaultBuildFullPathPS5Player: 
+  defaultBuildFullPathXboxOnePlayer: 
+  defaultBuildFullPathXboxSeriesXPlayer: 
+  defaultBuildFullPathStandaloneWindowsPlayer: 
+  defaultBuildFullPathStandaloneOSXPlayer: 
+  defaultBuildFullPathStandaloneLinuxPlayer: 
+  defaultBuildFullPathWebGLPlayer: 
+  defaultBuildFullPathSwitchPlayer: 
