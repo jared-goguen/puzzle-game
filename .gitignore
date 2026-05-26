@@ -1,0 +1,28 @@
+# Unity generated files
+[Ll]ibrary/
+[Ll]ogs/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ocal[Cc]ache/
+Temp/
+
+# Unity personal settings
+.vs/
+.vscode/
+*.csproj
+*.sln
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+*.swp
+*.swo
+*~
+.idea/
+
+# Build artifacts
+*.apk
+*.unitypackage
